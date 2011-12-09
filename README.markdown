@@ -7,7 +7,7 @@ Me in a nutshell:
 * Passionate about iterative product development
 * Passionate about community and collaboration
 
-My core technology competancies (in no particular order):
+My core technology competencies (in no particular order):
 
 * Ruby
 * CouchDB
@@ -27,4 +27,4 @@ Before American Express, I've worked as a:
 
 ## Education
 
-I graduated from the University of North Texas with a B.S. in Computer Science, a minor in Mathematics, and a GPA of 3.98. I was a National Science Foundation Scholar and a Board of Regents Scholar. I also received the "Oustanding Undergraduate in Computer Science" award in 2004.
+I graduated from the University of North Texas with a B.S. in Computer Science, a minor in Mathematics, and a GPA of 3.98. I was a National Science Foundation Scholar and a Board of Regents Scholar. I also received the "Outstanding Undergraduate in Computer Science" award in 2004.
